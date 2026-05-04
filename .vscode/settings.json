@@ -1,0 +1,5 @@
+{
+  "cmake.sourceDirectory": "/home/fishros/chapt2",
+  "C_Cpp.errorSquiggles": "enabled",
+  "python-envs.defaultEnvManager": "ms-python.python:venv"
+}
