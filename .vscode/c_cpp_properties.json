@@ -6,6 +6,7 @@
                 "${workspaceFolder}/**",
                 "/opt/ros/humble/include/**",
                 "/home/fishros/node_ws/src/demo_cpp_pkg/include/**",
+                "/home/fishros/chapt4/chapt4_ws/install/chapt4_interfaces/include/**",
                 "/usr/include/x86_64-linux-gnu/qt5/**"
             ],
             "defines": [],

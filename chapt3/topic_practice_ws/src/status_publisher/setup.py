@@ -23,6 +23,7 @@ setup(
         ],
     },
     entry_points={
+        # 创建可执行命令：在安装包时自动生成可在终端运行的命令
         'console_scripts': [
           'sys_status_pub=status_publisher.sys_status_pub:main'
         ],
